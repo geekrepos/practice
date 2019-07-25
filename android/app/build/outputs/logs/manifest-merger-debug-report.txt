@@ -5,6 +5,8 @@ INJECTED from D:\ReactNativeProjects\Practice\android\app\src\main\AndroidManife
 INJECTED from D:\ReactNativeProjects\Practice\android\app\src\main\AndroidManifest.xml:1:1-26:12
 INJECTED from D:\ReactNativeProjects\Practice\android\app\src\main\AndroidManifest.xml:1:1-26:12
 MERGED from D:\ReactNativeProjects\Practice\android\app\src\main\AndroidManifest.xml:1:1-26:12
+MERGED from [:react-native-gesture-handler] D:\ReactNativeProjects\Practice\node_modules\react-native-gesture-handler\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-vector-icons] D:\ReactNativeProjects\Practice\node_modules\react-native-vector-icons\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
 MERGED from [com.facebook.react:react-native:0.60.4] C:\Users\Anomla\.gradle\caches\transforms-2\files-2.1\2235cc5d024d50c178f53c0be943e993\AndroidManifest.xml:2:1-13:12
 MERGED from [org.webkit:android-jsc:r245459] C:\Users\Anomla\.gradle\caches\transforms-2\files-2.1\72914f2cfc7eeb34e84200d53d14c8d7\AndroidManifest.xml:2:1-11:12
 MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\Anomla\.gradle\caches\transforms-2\files-2.1\76e6911560db92d2ec0f7430507d2784\AndroidManifest.xml:17:1-22:12
@@ -132,6 +134,10 @@ uses-sdk
 INJECTED from D:\ReactNativeProjects\Practice\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from D:\ReactNativeProjects\Practice\android\app\src\main\AndroidManifest.xml
 INJECTED from D:\ReactNativeProjects\Practice\android\app\src\main\AndroidManifest.xml
+MERGED from [:react-native-gesture-handler] D:\ReactNativeProjects\Practice\node_modules\react-native-gesture-handler\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-gesture-handler] D:\ReactNativeProjects\Practice\node_modules\react-native-gesture-handler\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-vector-icons] D:\ReactNativeProjects\Practice\node_modules\react-native-vector-icons\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-vector-icons] D:\ReactNativeProjects\Practice\node_modules\react-native-vector-icons\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
 MERGED from [com.facebook.react:react-native:0.60.4] C:\Users\Anomla\.gradle\caches\transforms-2\files-2.1\2235cc5d024d50c178f53c0be943e993\AndroidManifest.xml:7:5-9:41
 MERGED from [com.facebook.react:react-native:0.60.4] C:\Users\Anomla\.gradle\caches\transforms-2\files-2.1\2235cc5d024d50c178f53c0be943e993\AndroidManifest.xml:7:5-9:41
 MERGED from [org.webkit:android-jsc:r245459] C:\Users\Anomla\.gradle\caches\transforms-2\files-2.1\72914f2cfc7eeb34e84200d53d14c8d7\AndroidManifest.xml:7:5-9:41

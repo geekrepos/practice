@@ -1,0 +1,76 @@
+
+import Icon from 'react-native-vector-icons/Ionicons';
+import {navigation,TouchableOpacity, Text,createStackNavigator,View, createAppContainer, createDrawerNavigator} from 'react-navigation';
+//import HomeScreen from './HomeScreen';
+//import SecondScreen from './SecondScreen';
+//import ThirdScreen from './ThirdScreen';
+//import FourthScreen from './FourthScreen';
+
+/*
+const Screens = {
+  Home : HomeScreen,
+  Screen2 : SecondScreen,
+  Screen3 : ThirdScreen,
+  Screen4 : FourthScreen
+}
+
+const AppNavigator = createStackNavigator(Screens,{
+  initialRouteName : 'Home',
+  defaultNavigationOptions:{
+    headerStyle:{
+      backgroundColor: 'orange'
+    }
+  }
+});
+*/
+/*
+
+const AppDrawerNavigator = createDrawerNavigator({
+  Home : {
+    screen:HomeScreen,
+    navigationOptions: ({ navigation }) => ({
+      headerLeft: (
+        <TouchableOpacity onPress={() => navigation.toggleDrawer()}>
+          <View style={{ paddingHorizontal: 10 }}>
+            <Icon name="md-menu" size={30} style={{ color: '#fff' }} />
+          </View>
+        </TouchableOpacity>
+      ),
+      headerTitle: (
+        <View style={{
+          justifyContent: 'center',
+          alignItems: 'center', flex: 1
+        }}>
+          <Text>Home</Text>
+        </View>
+      ),
+      headerTitleStyle: {
+        alignSelf: 'center',
+        justifyContent: 'center',
+        alignItems: 'center',
+      },
+      headerStyle: {
+        backgroundColor: '#000', height: 60
+      }
+    })
+  },
+  Screen2 : {screen:SecondScreen,
+    defaultNavigationOptions:{
+      drawerLabel: "Second"
+    }
+  },
+  Screen3 : {screen:ThirdScreen,
+    defaultNavigationOptions:{
+      drawerLabel: "Third"
+    }
+  },
+  Screen4 : {screen:FourthScreen,
+    defaultNavigationOptions:{
+      drawerLabel: "Fourth"
+    }
+  },
+});
+  
+const MainAppContainer = createAppContainer(AppDrawerNavigator);
+  
+*/

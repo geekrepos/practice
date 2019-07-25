@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Wed Jul 24 09:50:42 GMT+05:30 2019
+#Wed Jul 24 12:28:18 GMT+05:30 2019
 56.path=lib/x86/libimagepipeline.so
 5.base=D\:\\ReactNativeProjects\\Practice\\android\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
 42.base=D\:\\ReactNativeProjects\\Practice\\android\\app\\build\\intermediates\\transforms\\mergeJniLibs\\debug\\0
