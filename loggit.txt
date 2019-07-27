@@ -1,0 +1,35 @@
+commit 21fbdfe0aaa4aeac8d6100d02cd3e90222ef6ebe
+Author: Avinash <avicrap@gmail.com>
+Date:   Wed Jul 24 12:14:15 2019 +0530
+
+    gitignore updated
+
+commit 21e010ec2c7cc6fe1f73d3483521e857b3cefd23
+Author: Avinash <avicrap@gmail.com>
+Date:   Wed Jul 24 00:29:56 2019 +0530
+
+    Adding android folder
+
+commit a5bc3792bb5abe1284af7e115640376eaf2a8d0c
+Author: Avinash <avicrap@gmail.com>
+Date:   Wed Jul 24 00:26:56 2019 +0530
+
+    Added InteliJ, Updated gitignore, and changed App
+
+commit 239bbda51af7ac05f113a5e66a6e7638c783e8ac
+Author: Avinash Kumar <53126714+geekrepos@users.noreply.github.com>
+Date:   Tue Jul 23 22:51:11 2019 +0530
+
+    Update README.MD
+
+commit e94895c54bdf5cb63ae7fee86f0e6436b407dbb0
+Author: Avinash <avicrap@gmail.com>
+Date:   Tue Jul 23 22:50:06 2019 +0530
+
+    Added Readme
+
+commit 651257e5f07ead4afb282b45166a024fee42da03
+Author: Avinash <avicrap@gmail.com>
+Date:   Tue Jul 23 22:35:47 2019 +0530
+
+    Initial Commit

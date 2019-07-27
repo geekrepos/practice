@@ -1,5 +1,9 @@
 node_modules/
 ios/
 __tests__/
+<<<<<<< HEAD
 android/app/
 lol/
+=======
+android/local.properties
+>>>>>>> 0dbd05378f6821bc76fa9a7ab45a74dfd4a07c35
