@@ -4,21 +4,19 @@ echo "Current Branch(App Center): ${APPCENTER_BRANCH}"
 
 TODAY_DATE=$(date +%Y%m%d)
 BUILD_NUMBER="BUILD "
-ZERO=0
 APP_JSON_PATH='./app.json'
 JQ_INSTALL_STATUS=false
-JQ_INSTALL_STATUS=true #Testing purpose
 
 if [[ "$OSTYPE" == "linux-gnu"* ]]; then
         # Linux
 		echo "Installing jq json editor on Linux"
-		apt-get install jq	
 		JQ_INSTALL_STATUS=true
+		apt-get install jq	
 elif [[ "$OSTYPE" == "darwin"* ]]; then
         # Mac OSX
 		echo "Installing jq json editor on MacOS"
-		brew install jq
 		JQ_INSTALL_STATUS=true
+		brew install jq
 fi
 
 if $JQ_INSTALL_STATUS ; then 
@@ -43,5 +41,4 @@ if $JQ_INSTALL_STATUS ; then
 		git merge build-number-update --no-ff
 		git push
 fi
-
 cat $APP_JSON_PATH;
